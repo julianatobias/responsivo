@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding:0%;
+}
+
+
+html, body{
+    width: 100%;
+    height: 100%;
+}
+
+.div1{
+    width: 50%;
+    float: ;
+    background-color:hsl(302, 59%, 65%);
+}
+.div2{
+    width: 50%;
+    float: right;
+}
+
+@media saven and (max-widh: 320px){
+
+.div,.p2 {
+    width:100%;
+    height: 50px;
+    text-align: center;
+    font-size: 16px;
+}
+}
+
+
